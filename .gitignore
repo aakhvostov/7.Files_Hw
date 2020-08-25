@@ -1,6 +1,0 @@
-*.*
-!*.py
-!.gitignore
-!readme.md
-!recipes.txt
-main.py
