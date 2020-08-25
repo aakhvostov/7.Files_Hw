@@ -2,5 +2,5 @@
 !*.py
 !.gitignore
 !readme.md
-!recipes.txt    
+!recipes.txt
 main.py
